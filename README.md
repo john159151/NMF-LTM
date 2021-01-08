@@ -4,6 +4,4 @@ The source code of paper "Affinity Regularized Non-negative Matrix Factorization
 Reference Papers
 ----------------
 
-Y. Chen, J. Wu, J. Lin, R. Liu, H. Zhang and Z. Ye, "Affinity Regularized Non-Negative Matrix
-Factorization for Lifelong Topic Modeling," in IEEE Transactions on Knowledge and Data Engineering,
-vol. 32, no. 7, pp. 1249-1262, 1 July 2020, doi: 10.1109/TKDE.2019.2904687.
+Yong Chen, Junjie Wu, Jianying Lin, Rui Liu, Hui Zhang, and Zhiwen Ye. 2019. Affinity regularized non-negative matrix factorization for lifelong topic modeling. IEEE Transactions on Knowledge and Data Engineering 32, 7 (2019), 1249–1262. DOI:https://doi.org/10.1109/TKDE.2019.2904687
